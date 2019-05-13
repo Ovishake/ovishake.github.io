@@ -29,3 +29,5 @@ Credits:
 	Other:
 		jQuery (jquery.com)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+		
+Pictures: BY Avishek Mukherjee (propritary and cannot be used without prior written permission from Avishek Mukherjee)
